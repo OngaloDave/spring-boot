@@ -34,7 +34,7 @@ Here is a quick teaser of a complete Spring Boot application in Java:
 
 		@RequestMapping("/")
 		String home() {
-			return "Hello World!";
+			return "Hello world  this is me !";
 		}
 
 		public static void main(String[] args) {
